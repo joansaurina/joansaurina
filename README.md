@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Joan Saurina i Ricós 👋
 
-<!--
-**joansaurina/joansaurina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer & Computational Biologist 🧬💻
 
-Here are some ideas to get you started:
+Currently bridging the gap between Artificial Intelligence and the Life Sciences. I focus on **One Health**, deep learning applications in genomics, and multimodal biological data integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🎓 **Education**: AI Engineering at UPC (Barcelona) | Exchanges at DTU (Denmark) & Stanford University.
+- 🔬 **Current Research**: Incoming Fellow at **EMBL-EBI** (Cambridge) working on drug toxicity & LLMs.
+- 🧪 **Previous**: Research at **Stanford Biomedical Data Department** (Ioannidis Lab) and **Barcelona Supercomputing Center (BSC)** (David Torrents lab).
+- 🌍 **Mission**: Transforming biology into a predictive information science to make healthcare proactive and accessible.
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## 📊 GitHub Stats
+![Joan's GitHub stats](https://github-readme-stats.vercel.app/api?username=joansaurina&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joansaurina&layout=compact&theme=tokyonight)
+
+## 📬 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joan-saurina-i-ric%C3%B3s-2b01a1281/)
+[![Website](https://img.shields.io/badge/personal_website-2c3e50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://joansaurina.github.io/)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-5498-8639)
