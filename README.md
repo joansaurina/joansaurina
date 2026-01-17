@@ -18,10 +18,6 @@ Currently bridging the gap between Artificial Intelligence and the Life Sciences
 ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-![Joan's GitHub stats](https://github-readme-stats.vercel.app/api?username=joansaurina&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joansaurina&layout=compact&theme=tokyonight)
-
 ## 📬 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joan-saurina-i-ric%C3%B3s-2b01a1281/)
 [![Website](https://img.shields.io/badge/personal_website-2c3e50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://joansaurina.github.io/)
