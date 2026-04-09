@@ -2,7 +2,7 @@
 
 ### AI Engineer & Computational Biologist 🧬💻
 
-Currently bridging the gap between Artificial Intelligence and the Life Sciences. I focus on **One Health**, deep learning applications in genomics, and multimodal biological data integration.
+Currently bridging the gap between Artificial Intelligence and the Life Sciences. I focus on deep learning applications, genomics, and multimodal biological data integration.
 
 ---
 
